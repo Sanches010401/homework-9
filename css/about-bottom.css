@@ -1,0 +1,118 @@
+
+.offer-title {
+  margin-bottom: 1.4rem;
+}
+.offer-text {
+  font-family: Arial;
+  margin-top: 1.2rem;
+  line-height: 1rem;
+ color: #4e5050;
+  font-size: 0.8rem;
+}
+
+/*///////LIST/////*/
+
+.list {
+  columns: 2;
+  font-size: 0.7rem;
+  line-height: 2rem;
+  font-family: Arial;
+  margin-top: 2.6rem;
+  color: #263555
+}
+.list-item {
+  display: flex;
+}
+.list-item::before {
+    width: 0.8rem;
+    content: '';
+    margin-right: 0.5rem;
+    background-image: url(../img/arrow.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+.testimonial {
+  margin-top: 3.5rem;
+}
+.test-title {
+    margin-bottom: 1.7rem;
+    text-align: center;
+}
+
+/*////////TESTIMONIALS////////*/
+
+
+.container-test {
+  margin: auto;
+  position: relative;
+  width: 17.5rem;
+  padding: 0.8rem 1rem;
+  line-height: 1.4rem;
+  border: 1px solid #dfdcdc;
+  background-color: #fcfafa;
+}
+.container-test:before {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+.container-test:after {
+  top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+.container-test:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-top-color: #fcfafa;
+	border-width: 27px;
+	margin-left: -26px;
+}
+.container-test:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-top-color: #dfdcdc;
+	border-width: 28px;
+	margin-left: -27px;
+}
+.test-text {
+  font-family: Arial;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #263555;
+}
+.mark-jon {
+  margin-top: 63px;
+}
+.mark-text {
+  font-family: Arial;
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #263555;
+  text-align: center;
+}
+.direct-text {
+  font-family: Arial;
+  font-size: 11px;
+  color: #4e5050;
+  text-align: center;
+}
+.test-text::before {
+display: inline-block;
+margin-right: 5px;
+content: "\201c"
+}
+.test-text::after{
+  display: inline-block;
+  content: '\201d';
+  margin-left: 5px;
+}

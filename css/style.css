@@ -1,0 +1,32 @@
+@import "nav.css";
+@import "footer.css";
+@import "about-top.css";
+@import "about-bottom.css";
+@import "gallery.css";
+@import "typogr.css";
+@import "tours.css";
+@import "media-768.css";
+@import "media-1024.css";
+.body {
+  padding: 2rem 0;
+  background-image: url(../img/backround.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+hr {
+  width: 90%;
+  margin-top: 3rem;
+}
+.row {
+  margin: 0;
+}
+.gallery-box {
+  padding: 3rem 2rem;
+  background-color: white;
+}
+@media (min-width: 1200px)
+{
+.container {
+  max-width: 970px;
+}
+}

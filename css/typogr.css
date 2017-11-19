@@ -1,0 +1,45 @@
+.clearfix::after {
+  display: block;
+  clear: both;
+  content: '';
+}
+a {
+  text-decoration: none;
+}
+html {
+  font-size: 16px;
+}
+a:hover {
+  text-decoration: none;
+}
+.clearfix {
+  clear: both;
+  content:'';
+  display: block;
+}
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+h2 {
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #263555;
+  margin-bottom: 2rem;
+}
+h2,h4,h5,h6 {
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+h1 {
+  text-transform: uppercase;
+  font-family: dorsa;
+}
+h3 {
+  font-family: Arial;
+  line-height: 1rem;
+  font-size: 0.8rem;
+  color: #263555;
+  font-weight: bold;
+}

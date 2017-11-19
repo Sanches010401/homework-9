@@ -1,0 +1,99 @@
+ @media screen and (min-width: 768px) {
+  .menu {
+    width: 54%;
+  }
+  .header {
+    margin-bottom: 4rem;
+  }
+  .menu-item {
+    min-height: 2.8rem;
+  }
+  .row-tops {
+    padding-top: 3.5rem;
+  }
+  .title-two {
+    font-size: 1.8rem;
+  }
+  .menu-link {
+    font-size: 1.5rem;
+  }
+  .logo-link {
+    font-size: 2.8rem;
+    line-height: 6rem;
+  }
+  .box-logo {
+    width: 6.2rem;
+    height: 6.2rem;
+  }
+
+.agency-img {
+  width: 58%;
+  float: left;
+  margin-right: 1.5rem;
+}
+.agency-three {
+  font-size: 0.9rem;
+}
+.principles {
+  margin-top: 5rem;
+}
+.list {
+  font-weight: bold;
+  font-size: 0.73rem;
+}
+.number::before {
+  display: none;
+}
+.mail::before {
+  display: none;
+}
+.footer__number {
+  font-size: 0.65rem;
+}
+.number {
+  margin-top: 0.3rem;
+}
+.footer-link {
+  font-size: 1rem;
+}
+          /*agency*/
+  .dop-agency {
+    margin-top: 1rem;
+    display: inline-block;
+  }
+
+         /*princ*/
+ .princ-item {
+   margin-top: 0;
+   padding: 0;
+ }
+ .container-test {
+   width: 9.5rem;
+  line-height: 1rem;
+ }
+ .offer-text {
+line-height: 1.2rem;
+font-size: 0.9rem;
+ }
+
+
+
+     /*////////GALLERY//////*/
+
+
+ .gallery-img {
+   width: 100%;
+ }
+  .tours-item:nth-child(-n+2) {
+    margin-top: 0;
+  }
+  .gallery-item:nth-child(-n+2) {
+    margin-top: 0;
+  }
+  .img-box {
+    flex-basis: 48%;
+  }
+  .tours-item:nth-child(n+5) {
+    display: flex;
+  }
+}

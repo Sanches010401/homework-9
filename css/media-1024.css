@@ -1,0 +1,115 @@
+@media screen and (min-width: 992px) {
+  .header {
+    position: relative;
+    margin-bottom: 5rem;
+  }
+  .browse {
+    margin: 0;
+  }
+  .search {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 2rem;
+  }
+  .box-input:nth-child(-n+2){
+    margin-top: 1.3rem;
+}
+.box-input {
+  margin-top: 2rem;
+}
+.title-tours {
+ font-size: 0.8rem;
+}
+.text-info {
+  font-size: 0.74rem;
+}
+.tourss {
+  padding: 0;
+}
+.title-five {
+  font-size: 0.7rem;
+}
+.select-body {
+  font-size: 0.7rem;
+  width: 11rem;
+    height: 1.3rem;
+}
+  .source-img {
+    float: left;
+    margin-right: 1.5rem;
+  }
+  .agency-img  {
+    width: 57%;
+  }
+  .container {
+    padding-top: 4rem;
+  }
+  .row-tops {
+    padding-top: 5rem;
+  }
+  .title-two {
+    font-size: 2rem;
+  }
+  .menu {
+    width: 84%;
+    flex-wrap: nowrap;
+  }
+  .menu-link {
+    font-size: 1.8rem;
+  }
+  .nearth-logo {
+    margin-right: 10rem;
+  }
+  .logo-link {
+    font-size: 3.8rem;
+    line-height: 7.5rem;
+  }
+  .box-logo {
+    position: absolute;
+    top: 31%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    width: 8rem;
+    height: 8rem;
+    margin-bottom: 0;
+}
+.principles {
+  margin-top: 0rem;
+}
+.agency-text {
+  font-size: 0.9rem;
+  line-height: 1rem;
+}
+ .princ-item {
+   margin-top: 1.8rem;
+ }
+  .princ-item:first-child{
+    margin-top: 0;
+  }
+  .princ-text {
+    line-height: 0.9rem;
+  }
+  .testimonial {
+    margin-top: 0rem;
+  }
+  .offer-three {
+    font-size: 1rem;
+  }
+  .container-test {
+    width: 12.5rem;
+  }
+  .test-text {
+    font-size: 0.9rem;
+  }
+.agency-three {
+font-size: 1rem;
+}
+     /*////////GALLERY//////*/
+
+     .gallery-item:nth-last-child(-n+3) {
+         display: block;
+     }
+      .gallery-item:nth-child(-n+3){
+        margin-top: 0;
+      }
+}

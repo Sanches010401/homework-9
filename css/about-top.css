@@ -1,0 +1,54 @@
+.row-tops {
+  background-color: white;
+  padding: 3rem 2rem 0 2rem;
+}
+.row-bottom {
+  padding: 3rem 2rem 3rem 2rem;
+  background-color: white;
+}
+
+.agency-text {
+  font-size: 0.8rem;
+    font-family: Arial;
+    line-height: 1rem;
+    color: #4e5050;
+}
+.dop-agency {
+  display: none;
+}
+.agency-three {
+  margin: 1.7rem 0 1.2rem 0;
+}
+.principles {
+  counter-reset: princ;
+  margin-top: 3rem;
+}
+.title-princ {
+  margin-bottom: 1.1rem;
+}
+.princ-item {
+  display: flex;
+  margin-top: 1.2rem;
+}
+.princ-item:first-child{
+  margin-top: 0;
+}
+.princ-text {
+  font-size: 0.9rem;
+  font-family: Arial;
+  line-height: 0.8rem;
+  color: #4e5050;
+}
+.princ-item::before {
+  flex-shrink: 0;
+    width: 1.5rem;
+    height: 1.4rem;
+    content: counter(princ);
+    counter-increment: princ;
+    margin-right: 0.6em;
+    text-align: center;
+    line-height: 1.35rem;
+    border-radius: 50%;
+    color: white;
+    background-color: #38afe5;
+}
