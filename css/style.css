@@ -17,6 +17,9 @@ hr {
   width: 90%;
   margin-top: 3rem;
 }
+.footer-row {
+  margin: 0;
+}
 .gallery-box {
   padding: 3.7rem 2.5rem;
   background-color: white;
