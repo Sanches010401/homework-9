@@ -24,9 +24,3 @@ hr {
   padding: 3.7rem 2.5rem;
   background-color: white;
 }
-@media (min-width: 1200px)
-{
-.container {
-  max-width: 970px;
-}
-}
