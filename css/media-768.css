@@ -81,9 +81,6 @@ font-size: 0.9rem;
      /*////////GALLERY//////*/
 
 
- .gallery-img {
-   width: 100%;
- }
   .tours-item:nth-child(-n+2) {
     margin-top: 0;
   }

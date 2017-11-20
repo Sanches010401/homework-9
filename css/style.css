@@ -17,11 +17,8 @@ hr {
   width: 90%;
   margin-top: 3rem;
 }
-.row {
-  margin: 0;
-}
 .gallery-box {
-  padding: 3rem 2rem;
+  padding: 3.7rem 2.5rem;
   background-color: white;
 }
 @media (min-width: 1200px)
