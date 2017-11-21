@@ -8,7 +8,6 @@
 @import "media-768.css";
 @import "media-1024.css";
 .body {
-  padding: 2rem 0;
   background-image: url(../img/backround.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -19,8 +18,4 @@ hr {
 }
 .footer-row {
   margin: 0;
-}
-.gallery-box {
-  padding: 3.7rem 2.5rem;
-  background-color: white;
 }

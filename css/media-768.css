@@ -2,8 +2,11 @@
   .menu {
     width: 54%;
   }
+ .gallery-box {
+   padding-top: 5rem;
+ }
   .header {
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
   }
   .menu-item {
     min-height: 2.8rem;

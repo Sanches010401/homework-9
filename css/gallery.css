@@ -4,11 +4,18 @@
 .beach {
   margin-top: 0;
 }
+.gallery-box {
+  padding: 3.7rem 2.5rem;
+  background-color: white;
+}
 .gallery-item:nth-last-child(-n+3) {
     display: none;
 }
 .gallery-item:hover {
   opacity: 0.5;
+}
+.header {
+  margin-bottom: 5rem;
 }
 .gallery-item:hover .gallery-link {
     position: absolute;

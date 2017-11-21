@@ -6,6 +6,9 @@
   .browse {
     margin: 0;
   }
+  .gallery-box {
+    padding-top: 6rem;
+  }
   .search {
     padding-right: 15px;
     padding-left: 15px;
