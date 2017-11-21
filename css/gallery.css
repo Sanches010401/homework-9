@@ -1,4 +1,6 @@
 .gallery-item {
+  min-height: 13rem;
+  display: flex;
   margin-top: 2.3rem;
 }
 .beach {

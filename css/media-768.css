@@ -5,6 +5,12 @@
  .gallery-box {
    padding-top: 5rem;
  }
+ .gallery-item {
+   min-height: 12rem;
+ }
+ .gallery-item:nth-last-child(-n+3) {
+     display: flex;
+ }
   .header {
     margin-bottom: 1rem;
   }
