@@ -23,6 +23,9 @@
   .title-two {
     font-size: 1.8rem;
   }
+  .test-title {
+    text-align: center;
+  }
   .menu-link {
     font-size: 1.5rem;
   }
@@ -72,6 +75,9 @@
   }
 
          /*princ*/
+  .princ-text {
+    line-height: 1.2rem;
+  }
  .princ-item {
    margin-top: 0;
    padding: 0;
@@ -88,7 +94,9 @@ font-size: 0.9rem;
 
 
      /*////////GALLERY//////*/
-
+ .testimonial {
+   margin: 0;
+ }
 
   .tours-item:nth-child(-n+2) {
     margin-top: 0;

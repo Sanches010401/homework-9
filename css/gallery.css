@@ -3,6 +3,10 @@
   display: flex;
   margin-top: 2.3rem;
 }
+.galletry-box {
+  padding: 3rem;
+  background-color: white;
+}
 .beach {
   margin-top: 0;
 }

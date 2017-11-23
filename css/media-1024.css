@@ -3,9 +3,6 @@
     position: relative;
     margin-bottom: 5rem;
   }
-  .browse {
-    margin: 0;
-  }
   .gallery-item {
     min-height: 10rem;
   }
@@ -38,7 +35,7 @@
 }
 .select-body {
   font-size: 0.7rem;
-  width: 11rem;
+  width: 12rem;
     height: 1.3rem;
 }
   .source-img {
@@ -52,7 +49,7 @@
     padding-top: 4rem;
   }
   .row-tops {
-    padding-top: 5rem;
+    padding-top: 6rem;
   }
   .title-two {
     font-size: 2rem;

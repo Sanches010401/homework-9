@@ -9,7 +9,8 @@
    background-color: white;
  }
 .container {
-       padding-top: 1.5rem;
+  overflow: hidden;
+  padding: 1.5rem 0;
 }
 .tours-item {
    display: flex;
