@@ -3,6 +3,9 @@
     position: relative;
     margin-bottom: 5rem;
   }
+  .body {
+    padding-top: 5rem;
+  }
   .gallery-item {
     min-height: 10rem;
   }
@@ -110,9 +113,6 @@
   }
   .header {
     max-width: 60rem;
-  }
-  .tours-box {
-    margin-top: 3.5rem
   }
   .box-gallery{
     margin-top: 6rem;

@@ -4,11 +4,6 @@
    background-repeat: no-repeat;
    background-size: cover;
  }
- .tours-box {
-   margin-top: 4rem;
-   padding: 3.5rem 2rem;
-   background-color: white;
- }
 .tours-item {
    display: flex;
    justify-content: space-around;

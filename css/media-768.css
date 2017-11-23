@@ -11,12 +11,6 @@
  .gallery-item:nth-last-child(-n+2) {
      display: flex;
  }
- .box-container {
-   margin-top: 3.5rem;
- }
- .bodys {
-   padding-top: 1.5rem;
- }
  .agency-text {
    line-height: 1.2rem;
  }
