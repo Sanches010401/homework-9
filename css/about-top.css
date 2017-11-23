@@ -1,12 +1,18 @@
-.row-tops {
+.box-container {
   background-color: white;
-  padding: 3rem 2rem 0 2rem;
+    padding: 4rem 2rem 3rem 2rem;
+    margin-top: 4rem;
+}
+.body {
+  padding-top: 2rem;
+}
+.row-border {
+  border-bottom: 1px solid #dedbdb ;
+  padding-bottom: 3.5rem;
 }
 .row-bottom {
-  padding: 3rem 2rem 3rem 2rem;
-  background-color: white;
+  margin-top: 3.5rem;
 }
-
 .agency-text {
   font-size: 0.8rem;
     font-family: Arial;

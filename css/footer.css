@@ -67,10 +67,20 @@
   background-size: cover;
   background-position: center;
 }
+.footer-row {
+  margin: auto;
+  max-width: 33.75rem;
+}
 @media screen and (min-width: 768px){
   .footer-menu {
     margin: 0;
     justify-content: space-evenly;
+  }
+  .footer-row {
+    max-width: 45rem;
+  }
+  .header {
+    max-width: 45rem;
   }
   .footer-contact {
     display: block;

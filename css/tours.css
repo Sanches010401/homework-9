@@ -5,13 +5,10 @@
    background-size: cover;
  }
  .tours-box {
+   margin-top: 4rem;
    padding: 3.5rem 2rem;
    background-color: white;
  }
-.container {
-  overflow: hidden;
-  padding: 1.5rem 0;
-}
 .tours-item {
    display: flex;
    justify-content: space-around;

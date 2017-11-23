@@ -6,6 +6,9 @@
   .gallery-item {
     min-height: 10rem;
   }
+  .footer-row {
+      max-width: 60rem;
+    }
   .gallery-box {
     padding-top: 6rem;
     padding-bottom: 6rem;
@@ -105,6 +108,18 @@
   .test-text {
     font-size: 0.9rem;
   }
+  .header {
+    max-width: 60rem;
+  }
+  .tours-box {
+    margin-top: 3.5rem
+  }
+  .box-gallery{
+    margin-top: 6rem;
+  }
+  .bodys {
+    padding-top: 6rem;
+  }
 .agency-three {
 font-size: 1rem;
 }
@@ -115,5 +130,8 @@ font-size: 1rem;
      }
       .gallery-item:nth-child(-n+3){
         margin-top: 0;
+      }
+      .box-container {
+        padding: 7rem 3.5rem 3.5rem 3.5rem;
       }
 }

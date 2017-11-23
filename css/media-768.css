@@ -11,14 +11,17 @@
  .gallery-item:nth-last-child(-n+2) {
      display: flex;
  }
-  .header {
-    margin-bottom: 1rem;
-  }
+ .box-container {
+   margin-top: 3.5rem;
+ }
+ .bodys {
+   padding-top: 1.5rem;
+ }
+ .agency-text {
+   line-height: 1.2rem;
+ }
   .menu-item {
     min-height: 2.8rem;
-  }
-  .row-tops {
-    padding-top: 3.5rem;
   }
   .title-two {
     font-size: 1.8rem;

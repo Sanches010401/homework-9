@@ -11,8 +11,12 @@
   background-image: url(../img/backround.png);
   background-repeat: no-repeat;
   background-size: cover;
+  padding-bottom: 1rem;
 }
 hr {
   width: 90%;
   margin-top: 3rem;
+}
+.header {
+  margin: auto;
 }
