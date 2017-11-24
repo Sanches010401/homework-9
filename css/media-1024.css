@@ -25,7 +25,7 @@
     margin-top: 1.3rem;
 }
 .box-input {
-  margin-top: 2rem;
+  margin-top: 1.3rem;
 }
 .title-tours {
  font-size: 0.8rem;
@@ -91,13 +91,13 @@
   line-height: 1rem;
 }
  .princ-item {
-   margin-top: 1.8rem;
+   margin-top: 1.4rem;
  }
   .princ-item:first-child{
     margin-top: 0;
   }
   .princ-text {
-    line-height: 0.9rem;
+    line-height: 1rem;
   }
   .testimonial {
     margin-top: 0rem;
